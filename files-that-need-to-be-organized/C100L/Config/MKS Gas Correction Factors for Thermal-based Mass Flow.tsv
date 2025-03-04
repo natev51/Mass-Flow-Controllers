@@ -1,0 +1,78 @@
+Gas	Symbol	Specific Heat, CP cal/g°C	Density g/l 2@ 0°C	Conversion Factor
+1,1,2-Trichloro -1,2,2-Trifluoroethane (Freon - 113)	CCl2FCClF2 or C2Cl3F3	0.161	8.36	0.2
+1,1-Difluoroethylene (Freon - 1132A)	C2H2F2	0.224	2.857	0.43
+1,2-Dichlorotetrafluoroethane (Freon - 114)	C2Cl2F4	0.16	7.626	0.22
+2,2-Dimethylpropane	C5H12	0.3914	3.219	0.22
+Air	- - -	0.24	1.293	1
+Ammonia	NH3	0.492	0.76	0.73
+Argon	Ar	0.1244	1.782	1.39
+Arsine	AsH3	0.1167	3.478	0.67
+Boron Trichloride	BCl3	0.1279	5.227	0.41
+Bromine	Br2	0.0539	7.13	0.81
+Carbon Dioxide	CO2	0.2016	1.964	0.70*
+Carbon Monoxide	CO	0.2488	1.25	1
+Carbon Tetrachloride	CCl4	0.1655	6.86	0.31
+Carbon Tetraflouride (Freon - 14)	CF4	0.1654	3.926	0.42
+Chlorine	Cl2	0.1144	3.163	0.86
+Chlorodifluoromethane (Freon - 22)	CHClF2	0.1544	3.858	0.46
+Chloropentafluoroethane (Freon - 115)	C2ClF5	0.164	6.892	0.24
+Chlorotrifluoromethane (Freon - 13)	CClF3	0.153	4.66	0.38
+Cyanogen	C2N2	0.2613	2.322	0.61
+Deuterium	D2	1.722	0.1799	1
+Diborane	B2H6	0.508	1.235	0.44
+Dibromodifluoromethane	CBr2F2	0.15	9.362	0.19
+Dichlorodifluoromethane (Freon - 12)	CCl2F2	0.1432	5.395	0.35
+Dichlorofluoromethane (Freon - 21)	CHCl2F	0.14	4.592	0.42
+Dichloromethysilane	(CH3)2SiCl2	0.1882	5.758	0.25
+Dichlorosilane	SiH2Cl2	0.15	4.506	0.4
+Ethane	C2H6	0.4097	1.342	0.5
+Fluorine	F2	0.1873	1.695	0.98
+Fluoroform (Freon - 23)	CHF3	0.176	3.127	0.5
+Freon - 11	CCl3F	0.1357	6.129	0.33
+Freon - 113	C2Cl2F3	0.161	8.36	0.2
+Freon - 1132A	C2H2F2	0.224	2.857	0.43
+Freon - 114	C2Cl2F4	0.16	7.626	0.22
+Freon - 115	C2ClF5	0.164	6.892	0.24
+Freon - 116	C2F6	0.1843	6.157	0.24
+Freon - 12	CCl2F2	0.1432	5.395	0.35
+Freon - 13	CClF3	0.153	4.66	0.38
+Freon - 13 B1	CBrF3	0.1113	6.644	0.37
+Freon - 14	CF4	0.1654	3.926	0.42
+Freon - 21	CHCl2F	0.14	4.592	0.42
+Freon - 22	CHClF2	0.1544	3.858	0.46
+Freon - 23	CHF3	0.176	3.127	0.5
+Freon - C318	C4F8	0.1866	8.93	0.164
+Helium	He	1.241	0.1786	1.45
+Hexafluoroethane (Freon - 116)	C2F6	0.1843	6.157	0.24
+Hydrogen	H2	3.419	0.0899	1.01
+Hydrogen Bromide	HBr	0.0861	3.61	1
+Hydrogen Chloride	HCl	0.1912	1.627	1
+Hydrogen Fluoride	HF	0.3479	0.893	1
+Isobutylene	C4H8	0.3701	2.503	0.29
+Krypton	Kr	0.0593	3.739	1.543
+Methane	CH4	0.5328	0.715	0.72
+Methyl Fluoride	CH3F	0.3221	1.518	0.56
+Molybdenum Hexafluoride	MoF6	0.1373	9.366	0.21
+Neon	Ne	0.246	0.9	1.46
+Nitric Oxide	NO	0.2328	1.339	0.99
+Nitrogen	N2	0.2485	1.25	1
+Nitrogen Dioxide	NO2	0.1933	2.052	**
+Nitrogen Trifluoride	NF3	0.1797	3.168	0.48
+Nitrous Oxide	N2O	0.2088	1.964	0.71
+Octafluorocyclobutane (Freon - C318)	C4F8	0.1866	8.93	0.164
+Oxygen	O2	0.2193	1.427	0.993
+Pentane	C5H12	0.398	3.219	0.21
+Perfluoropropane	C3F8	0.194	8.388	0.17
+Phosgene	COCl2	0.1394	4.418	0.44
+Phosphine	PH3	0.2374	1.517	0.76
+Propane	C3H8	0.3885	1.967	0.36
+Propylene	C3H6	0.3541	1.877	0.41
+Silane	SiH4	0.3189	1.433	0.6
+Silicon Tetrachloride	SiCl4	0.127	7.58	0.28
+Silicon Tetrafluoride	SiF4	0.1691	4.643	0.35
+Sulfur Dioxide	SO2	0.1488	2.858	0.69
+Sulfur Hexafluoride	SF6	0.1592	6.516	0.26
+Trichlorofluoromethane (Freon - 11)	CCl3F	0.1357	6.129	0.33
+Trichlorosilane	SiHCl3	0.138	6.043	0.33
+Tungsten Hexafluoride	WF6	0.081	13.28	0.25
+Xenon	Xe	0.0378	5.858	1.32
