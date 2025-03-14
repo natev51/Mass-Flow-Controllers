@@ -31,6 +31,10 @@
 			</Item>
 			<Item Name="FC2901.lvclass" Type="LVClass" URL="../FC2901/FC2901/FC2901.lvclass"/>
 		</Item>
+		<Item Name="Configuration" Type="Folder">
+			<Item Name="MKS Gas Correction Factors for Thermal-based Mass Flow.tsv" Type="Document" URL="../Configuration/MKS Gas Correction Factors for Thermal-based Mass Flow.tsv"/>
+			<Item Name="Return Configuration Directory.vi" Type="VI" URL="../Configuration/Return Configuration Directory.vi"/>
+		</Item>
 		<Item Name="Dependencies" Type="Dependencies">
 			<Item Name="vi.lib" Type="Folder">
 				<Item Name="8.6CompatibleGlobalVar.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/config.llb/8.6CompatibleGlobalVar.vi"/>
