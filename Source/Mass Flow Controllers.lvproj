@@ -33,7 +33,7 @@
 		</Item>
 		<Item Name="Configuration" Type="Folder">
 			<Item Name="MKS Gas Correction Factors for Thermal-based Mass Flow.tsv" Type="Document" URL="../Configuration/MKS Gas Correction Factors for Thermal-based Mass Flow.tsv"/>
-			<Item Name="Return Configuration Directory.vi" Type="VI" URL="../Configuration/Return Configuration Directory.vi"/>
+			<Item Name="MFC Return Configuration Directory.vi" Type="VI" URL="../Configuration/MFC Return Configuration Directory.vi"/>
 		</Item>
 		<Item Name="Dependencies" Type="Dependencies">
 			<Item Name="vi.lib" Type="Folder">
